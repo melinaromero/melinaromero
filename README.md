@@ -53,10 +53,11 @@ Data Engineering ████████ 70%
 Web Development ███████  60%
 Spark/Delta    ████████  70%
 
-📫 Contacto
+### **📫 Conectemos**
 
-LinkedIn: linkedin.com/in/melinaromero
+Si te interesa mi perfil, podés contactarme a través de mis redes o revisar mi portfolio de proyectos.
 
-GitHub: github.com/melinaromero
+* **LinkedIn:** [https://www.linkedin.com/in/melinaromero/](https://www.linkedin.com/in/melinaromero/)
+* **Email:** melina.rom07@gmail.com
+* **Portafolio (CV):** [[[Link a tu CV en Google Drive, Dropbox, etc.](https://docs.google.com/document/d/19kJqmTYxUTOl3VI9g87JDGOEFKF9DADX/edit?usp=sharing&ouid=105533848016084155212&rtpof=true&sd=true))](https://docs.google.com/document/d/19kJqmTYxUTOl3VI9g87JDGOEFKF9DADX/edit?usp=sharing&ouid=105533848016084155212&rtpof=true&sd=true)]
 
-Busco oportunidades para comenzar mi carrera profesional en Data Engineering o Backend, lista para aprender y crecer con proyectos reales.
