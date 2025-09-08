@@ -1,6 +1,6 @@
 # 👋 Hola, soy Melina Romero
 
-💻 **Data Engineer | Java Fullstack | Apasionada por aprender y crear proyectos reales**
+💻 **Data Engineer | Java Fullstack **
 
 ---
 
@@ -54,3 +54,11 @@ Python         █████████  80%
 Data Engineering ████████ 70%
 Web Development ███████  60%
 Spark/Delta    ████████  70%
+
+📫 Contacto
+
+LinkedIn: linkedin.com/in/melinaromero
+
+GitHub: github.com/melinaromero
+
+Busco oportunidades para comenzar mi carrera profesional en Data Engineering o Backend, lista para aprender y crecer con proyectos reales.
