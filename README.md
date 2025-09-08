@@ -2,8 +2,7 @@
 
 ### **Desarrolladora Backend | Data Engineer**
 
-Profesional proactiva y curiosa, apasionada por resolver problemas y por construir soluciones que generen valor. Tengo una sólida base en programación, me adapto rápidamente a nuevas tecnologías para afrontar desafíos complejos.
-
+Construyo aplicaciones web y pipelines de datos que funcionan en producción. Experiencia en Java Fullstack, Python y procesamiento de datos con Spark/Delta Lake. Me concentro en proyectos reales, con código limpio y deployable.
 ---
 
 ## 🛠 Habilidades técnicas
