@@ -1,13 +1,8 @@
-# 👋 Hola, soy Melina Romero
+# ¡Hola! 👋 Soy Melina Romero
 
-💻 **Data Engineer | Java Fullstack **
+### **Desarrolladora Backend | Data Engineer**
 
----
-
-## 🔹 Sobre mí
-
-Empecé en IT en 2023 como **Java Fullstack**, aprendiendo desarrollo web y bases de datos.  
-Hoy me especializo en **Data Engineering**, trabajando con pipelines, ETL y almacenamiento distribuido (Delta Lake, Spark).  
+Profesional proactiva y curiosa, apasionada por resolver problemas y por construir soluciones que generen valor. Tengo una sólida base en programación, me adapto rápidamente a nuevas tecnologías para afrontar desafíos complejos.
 
 ---
 
@@ -36,13 +31,16 @@ Hoy me especializo en **Data Engineering**, trabajando con pipelines, ETL y alma
 
 ---
 
-## 🌟 Proyectos destacados
+### **🚀 Proyectos Destacados**
 
-| Proyecto | Descripción | Repo |
-|----------|-------------|------|
-| **Aventura Espacial** | Juego en Python con PyGame: nave que dispara a asteroides, menú y puntuación | [GitHub](https://github.com/melinaromero/aventura-espacial) |
-| **Moto Visualizer** | Visualizador 3D de motos con cambio de color, rotación y UI estilizada | [GitHub](https://github.com/melinaromero/moto-visualizer) |
-| **ETL Weather → Delta Lake** | Pipeline de datos climáticos desde APIs a Delta Lake con Spark | [GitHub](https://github.com/melinaromero/melina-data-engineering-final-project) |
+Aquí puedes ver un resumen de mis proyectos más representativos.
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **Visualizador Web 3D** | Una aplicación web que permite la visualización de modelos 3D con interacción en tiempo real. | React, Three.js, Tailwind CSS |
+| **Gestión de Foros** | Un sistema completo con autenticación de usuarios, creación de publicaciones y comentarios. | Java, Spring Boot, MySQL |
+| **Pipeline de Datos** | Un ETL que procesa datos climáticos desde APIs y los carga en un Delta Lake. | Python, Apache Spark, APIs |
+| **Migración de Backend** | Proyecto de optimización que migró la lógica de un backend a un lenguaje más eficiente. | Node.js, Go |
 
 ---
 
