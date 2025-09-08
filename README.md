@@ -43,20 +43,29 @@ Aquí puedes ver un resumen de mis proyectos más representativos.
 
 ---
 
-## 📈 Skills visuales 
+💻 Skills
 
-```text
-Java           ██████████  90%
-Python         █████████  80%
-Data Engineering ████████ 70%
-Web Development ███████  60%
-Spark/Delta    ████████  70%
+Java
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 90%
 
-### **📫 Conectemos**
+Python
+🟩🟩🟩🟩🟩🟩🟩🟩🟨 80%
+
+Data Engineering
+🟩🟩🟩🟩🟩🟩🟩🟨 70%
+
+Web Development
+🟩🟩🟩🟩🟩🟩🟨 60%
+
+Spark / Delta
+🟩🟩🟩🟩🟩🟩🟩🟨 70%
+
+📫 Conectemos
 
 Si te interesa mi perfil, podés contactarme a través de mis redes o revisar mi portfolio de proyectos.
 
-* **LinkedIn:** [https://www.linkedin.com/in/melinaromero/](https://www.linkedin.com/in/melinaromero/)
-* **Email:** melina.rom07@gmail.com
-* **Portafolio (CV):** [Link a mi CV](https://docs.google.com/document/d/19kJqmTYxUTOl3VI9g87JDGOEFKF9DADX/edit?usp=sharing&ouid=105533848016084155212&rtpof=true&sd=true)
+LinkedIn: https://www.linkedin.com/in/melinaromero/
 
+Email: melina.rom07@gmail.com
+
+Portafolio (CV): Link a mi CV
