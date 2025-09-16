@@ -67,5 +67,3 @@ Si te interesa mi perfil, podés contactarme a través de mis redes o revisar mi
 LinkedIn: https://www.linkedin.com/in/melinaromero/
 
 Email: melina.rom07@gmail.com
-
-Portafolio (CV): Link a mi CV
